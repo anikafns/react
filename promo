@@ -1,0 +1,28 @@
+{
+  "promoData": [
+    {
+      "id": 1,
+      "heading": "Easy To Use",
+      "content": "Lorem ipsum dolor sit amet, eam ex probo tation tractatos. Ut vel hinc solet tincidunt.",
+      "iconClass": "ti-face-smile"
+    },
+    {
+      "id": 2,
+      "heading": "Awesome Design",
+      "content": "Lorem ipsum dolor sit amet, eam ex probo tation tractatos. Ut vel hinc solet tincidunt.",
+      "iconClass": "ti-vector"
+    },
+    {
+      "id": 3,
+      "heading": "Easy To Customize",
+      "content": "Lorem ipsum dolor sit amet, eam ex probo tation tractatos. Ut vel hinc solet tincidunt.",
+      "iconClass": "ti-palette"
+    },
+    {
+      "id": 4,
+      "heading": "24/7 Support",
+      "content": "Lorem ipsum dolor sit amet, eam ex probo tation tractatos. Ut vel hinc solet tincidunt.",
+      "iconClass": "ti-headphone-alt"
+    }
+  ]
+}
